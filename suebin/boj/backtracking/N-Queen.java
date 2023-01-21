@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
         
-public class boj {
+public class Main {
 	static int N;
 	static int[] queenPlace;
 	static int count = 0;
